@@ -1,0 +1,42 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.booproj
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+
+# Unity auto-generated files
+*.swp
+*.lock
+*.tmp
+*.bak
+*.old
+*.orig
+*.pyc
+*.pyo
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Exclude build artifacts
+Builds/
