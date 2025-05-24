@@ -27,6 +27,9 @@
 # Visual Studio Code
 .vscode/
 
+# Visual Studio folder
+.vs/
+
 # Rider
 .idea/
 *.suo
